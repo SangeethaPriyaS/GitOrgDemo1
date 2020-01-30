@@ -6,7 +6,7 @@ public class MultiplicationTable
 	{
 		int a;
 
-		  System.out.println("Modified");
+		  System.out.println("Test Modified");
 	    System.out.println("Enter range of numbers to print their multiplication tables .. ");
 
 	    Scanner in = new Scanner(System.in);
