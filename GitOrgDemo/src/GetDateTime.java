@@ -3,6 +3,7 @@ public class GetDateTime {
 
 	public static void main(String[] args)
 	{
+		 System.out.println("GITHUB");
 		 System.out.println("To print date and time");
 		int day, month, year;
 	      int second, minute, hour;
@@ -16,7 +17,7 @@ public class GetDateTime {
 	      minute = date.get(Calendar.MINUTE);
 	      hour = date.get(Calendar.HOUR);
 
-	      System.out.println("Current date is  "+day+"/"+(month+1)+"/"+year);
+	      System.out.println("Today is  "+day+"/"+(month+1)+"/"+year);
 	      System.out.println("Current time is  "+hour+" : "+minute+" : "+second);
 
 	}

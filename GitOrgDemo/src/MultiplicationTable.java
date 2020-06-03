@@ -13,7 +13,7 @@ public class MultiplicationTable
 
 	    a = in.nextInt();
 	   
-	    System.out.println("Multiplication table of "+a);
+	    System.out.println("###Multiplication table of "+a+"##");
 
 	    for (int i = 1; i <= 10; i++)
 	    {
